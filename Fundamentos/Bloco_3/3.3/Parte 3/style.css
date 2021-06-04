@@ -1,0 +1,12 @@
+h1, p {
+    text-align: center;
+}
+
+li:hover{
+    background-color: blue;
+    color: whitesmoke;
+}
+
+ul, ol{
+    list-style: none;
+}

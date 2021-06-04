@@ -1,0 +1,43 @@
+body{
+    font-size: 16px;
+}
+
+h1{
+    font-size: 68px;
+    color: orange;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+
+.content-background{
+    background-color: peachpuff;
+}
+
+p{
+    font-weight: 600px;
+    font-size: 3em;
+    color: #333333;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    line-height: 2em;
+}
+
+#amarelo{
+    background-color: yellow;
+    color: #333333;
+}
+
+#vermelho{
+    background-color: red;
+    color: peachpuff;
+}
+
+#marrom{
+    background-color: rgb(63, 15, 15);
+    color: peachpuff;
+}
