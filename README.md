@@ -51,8 +51,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 5-5: _Fundamentos - JavaScript - Projetos_
 - [x] 5-5: _[Projeto - Arte com Pixels]()_
 - [x] 5-6: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Meme Generator]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-7: _[Projeto - Meme Generator]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Carta Misteriosa]()_
+
+##### Bloco 6: HTML e CSS - Forms, Flexbox e Responsivo
+
+- [x] 6-1: _HTML & CSS - Forms_
+- [x] 6-2: _Bibliotecas JavaScript e FrameWorks CSS_
+- [ ] 6-3: _Introdução - CSS Flexbox_
+- [ ] 6-3: _CSS Flexbox - Parte 1_
+- [ ] 6-4: _CSS Flexbox - Parte 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Trybewarts]()_
 
 # [...]
