@@ -11,46 +11,51 @@
 
 <body>
 
-  <fieldset>
-    <label for="name">Digite seu nome: 
-      <input type="text" name="Nome" id="name" maxlength="40" required>
-    </label>
-    <label for="input-email"> Digite seu e-mail
-      <input type="email" name="input-email" id="email" maxlength="50" required>
-    </label>
-    <label for="cpf"> Digite seu CPF:
-  <input type="text" name="cpf" id="input-cpf" max="11" required>
-</label>
-    <label for="input-endereco"> Endereço:
-<input type="text" name="endereço" id="input-endereco" maxlength="200" required>
-</label>
-    <label for="input-city"> Cidade:
-  <input type="text" name="city" id="input-city" maxlength="28" required>
-</label>
-    <label for="state">Estado:</label>
-    <select name="state" id="state" required></select>
+  <header id="header">Cadastro de Curriculo</header>
 
-    <label for="input-tipo"> Casa
+
+  <form action="" method="get" class="speaker-form">
+    <fieldset>
+          <label for="name">Digite seu nome:  </label>
+      <input type="text" name="Nome" id="name" maxlength="40" required>
+
+          <label for="input-email"> Digite seu e-mail:</label>
+      <input type="email" name="input-email" id="email" maxlength="50" required>
+
+          <label for="cpf"> Digite seu CPF:</label>
+  <input type="text" name="cpf" id="input-cpf" max="11" required>
+            
+          <label for="input-endereco"> Endereço:</label>
+<input type="text" name="endereço" id="input-endereco" maxlength="200" required>
+      
+      <label for="input-city"> Cidade:</label>
+  <input type="text" name="city" id="input-city" maxlength="28" required>
+
+      <label for="state">Estado:</label>
+      <select name="state" id="state" required></select>
+
+      <label for="input-tipo"> Casa</label>
   <input type="radio" name="tipo" id="input-tipo" value="tipo" required>
-</label>
-    <label for="input-tipo"> Apartamento
+
+      <label for="input-tipo"> Apartamento</label>
   <input type="radio" name="tipo" id="input-tipo" value="tipo" required>
-</label>
-  </fieldset>
-  <fieldset>
-    <label for="resumo-curriculo">Insira um resumo
+
+    </fieldset>
+    <fieldset>
+      <label for="resumo-curriculo">Insira um resumo
       <textarea name="resumo" id="input-resumo" cols="162" rows="10" maxlength="1000" required></textarea>
     </label>
-    <label for="input-cargo">Insira o cargo desejado:
+      <label for="input-cargo">Insira o cargo desejado:
       <input type="text" name="cargo" id="input-cargo" maxlength="40" required> 
     </label>
-    <label for="descrição do cargo"> Insira uma descrição do Cargo:
+      <label for="descrição do cargo"> Insira uma descrição do Cargo:
       <input type="text" name="descrição do cargo" id="input-descricao" maxlength="500" required>
     </label>
-    <label for="input-inicio">Data de inicio:
+      <label for="input-inicio">Data de inicio:
 <input type="date" name="data-inicio" id="input-inicio">
     </label>
-  </fieldset>
+    </fieldset>
+  </form>
   <br>
   <button type="submit" class="submit-button">Enviar</button>
   <button type="button" class="clear-button">Limpar</button>

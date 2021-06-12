@@ -10,41 +10,6 @@ function createStateOptions() {
 }
 createStateOptions();
 
-function handleSubmit(event) {
-  event.preventDefault();
-
-  let validation = validateData();
-
-  clearDivs();
-
-  if (validation.errorQtd === 0) {
-    renderData();
-  } else {
-    validation.messages.unshift('Dados Inválidos')
-
-    renderErrorMessages(validation.messages)
-  }
-}
-
-
-function clearFields() {
-  let formElements = document.querySelectorAll('input');
-  let textArea = document.querySelector('textarea')
-  let div = document.querySelectorAll('.div-curriculum');
-  for (let index = 0; index < formElements.length && index < div.length; index += 1) {
-    let userInput = formElements[index];
-    userInput.value = '';
-    textArea.value = '';
-    div[index].innerText = '';
-  }
-}
-
-
-window.onload = function() {
-  createStateOptions();
-  let submitButton = document.querySelector('.submit-button');
-  submitButton.addEventListener('click', handleSubmit);
-
-  let clearButton = document.querySelector('.clear-button');
-  clearButton.addEventListener('click', clearFields)
-}
+window.addEventListener('load', stateFieldLoad);
+subitButton.addEventListener('click', validateData);
+resetButton.addEventListener('click', resetResults);
