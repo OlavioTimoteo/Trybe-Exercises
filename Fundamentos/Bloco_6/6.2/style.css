@@ -1,0 +1,22 @@
+*{
+
+}
+
+header{
+  border: 1px solid red;
+  height: 50px;
+  text-align: center;
+  font-size: 30px;
+  background-color:#58735A;
+  padding-top: 10px;
+}
+.information{
+  background-color:#AEC1AB ;
+}
+.information2{
+  background-color: #AEC1AB;
+}
+button{
+  width: 200px;
+  text-align: center;
+}
