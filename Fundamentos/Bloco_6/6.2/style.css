@@ -1,14 +1,11 @@
 *{
-
+margin: 0;
+padding: 0;
 }
 
 header{
-  border: 1px solid red;
-  height: 50px;
-  text-align: center;
   font-size: 30px;
   background-color:#58735A;
-  padding-top: 10px;
 }
 .information{
   background-color:#AEC1AB ;
@@ -19,4 +16,15 @@ header{
 button{
   width: 200px;
   text-align: center;
+}
+body{
+  background-color: #AEC1AB;
+}
+header.container{
+margin: auto;
+padding: auto;
+
+}
+div.buttons{
+  padding-top: 10px;
 }
