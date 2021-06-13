@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+  <title>Formulário de Currículo</title>
+</head>
+
+<body>
+  <header action="" method="get" class="container">
+    <h1 class="text-center">Formulário de Currículo</h1>
+  </header>
+
+  <form id="cv-form">
+    <div class="container">
+      <section class="personal-information">
+        <fieldset class="information">
+          <div class="">
+            <label for="name" class="form-label">Name:</label>
+            <input type="text" name="name" class="form-control" id="name" maxlength="40" required>
+          </div>
+          <div class="">
+            <label for="email" class="form-label">E-mail:</label>
+            <input type="email" name="e-mail" class="form-control" id="email" maxlength="50" required>
+          </div>
+          <div class="">
+            <label for="cpf" class="form-label">CPF:</label>
+            <input type="text" name="cpf" class="form-control" id="cpf" maxlength="11" required>
+          </div>
+          <div class="">
+            <label for="adress" class="form-label">Adress:</label>
+            <input type="text" name="adress" class="form-control" id="adress" maxlength="200" required>
+          </div>
+          <div class="">
+            <label for="city" class="form-label">City:</label>
+            <input type="text" name="city-name" class="form-control" id="city" maxlength="28" required>
+          </div>
+          <div class="content">
+            <label for="states" class="form-label">States</label>
+            <select name="states" class="form-select" id="states" required></select>
+          </div>
+          <div class="form-check">
+            <label for="house" class="form-check-label1">House</label>
+            <input type="radio" name="house" class="form-check-input1" id="house" maxlength="" required>
+            <label for="house" class="form-check-label2">Apartment</label>
+            <input type="radio" name="house" class="form-check-input2" id="apartment" maxlength="" required>
+          </div>
+        </fieldset>
+      </section>
+      <section class="job-information">
+        <fieldset class="job-information">
+          <div class="">
+            <label for="summary" class="form-label">Resume Summary</label>
+            <textarea name="summary" class="form-control text-area" id="summary" cols="160" rows="10" maxlength="1000" required></textarea>
+          </div>
+          <div class="">
+            <label for="position" class="form-label">You position:</label>
+            <input type="text-area" name="" class="form-control" id="position" maxlength="" required>
+          </div>
+          <div class="">
+            <label for="description" class="form-label">Job description:</label>
+            <input type="text-area" name="description" class="form-control" id="description" maxlength="500" required>
+          </div>
+          <div class="">
+            <label for="start-date" class="form-label">Start date</label>
+            <input type="date" name="" class="form-control date" id="start-date" maxlength="" required>
+          </div>
+        </fieldset>
+      </section>
+        <div class="container buttons">
+        <button type="submit" class="btn btn-success">Submit</button>
+        <button type="reset" class="btn btn-warning ">Clear</button>
+      </div>
+  </form>
+  </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>

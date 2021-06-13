@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+header{
+  font-size: 30px;
+  background-color:#58735A;
+}
+.information{
+  background-color:#AEC1AB ;
+}
+.information2{
+  background-color: #AEC1AB;
+}
+button{
+  width: 200px;
+  text-align: center;
+}
+body{
+  background-color: #AEC1AB;
+}
+header.container{
+margin: auto;
+padding: auto;
+
+}
+div.buttons{
+  padding-top: 10px;
+}
