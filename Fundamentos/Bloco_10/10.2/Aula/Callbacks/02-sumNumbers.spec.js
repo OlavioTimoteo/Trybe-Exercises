@@ -1,4 +1,4 @@
-const sumNumbers = require("./sumNumbers");
+const sumNumbers = require("./02-sumNumbers");
 
 test('Testando SumNumbers, soma 5 mais 10', done => {
   sumNumbers(5, 10, (result) => {

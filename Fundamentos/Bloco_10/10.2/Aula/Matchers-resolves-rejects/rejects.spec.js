@@ -5,7 +5,6 @@ describe('Testando Async/Await - findAnimalsByType', () => {
         { name: 'Dorminhoco', age: 1, type: 'Dog' },
         { name: 'Soneca', age: 2, type: 'Dog' },
       ]
-      
       expect.assertions(1);
       await expect(getListAnimals('Dog')).resolves.toEqual(listDogs)
     });
