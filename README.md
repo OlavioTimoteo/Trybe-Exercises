@@ -7,7 +7,8 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Introdução - Desenvolvimento Web 
+## Introdução - Desenvolvimento Web :white_check_mark:
+
 
 ##### Bloco 1: Introdução - Unix & Shell
 
@@ -91,7 +92,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [x] 10-3: _Jest - Simulando comportamentos_
+- [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+
+## Desenvolvimento Front-end 
+
+##### Bloco 11: Introdução - React
+
+- [ ] 11-1: _Introdução - Front-end_
+- [ ] 11-1: _Introdução - React_
+- [ ] 11-1: _'Hello, world!' no React!_
+- [ ] 11-2: _Componentes React_
+- [ ] 11-3: _[Projeto - Movie Cards Library]()_
 
 # [...]
