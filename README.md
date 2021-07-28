@@ -102,7 +102,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 11-1: _Introdução - Front-end_
 - [x] 11-1: _Introdução - React_
 - [x] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [x] 11-2: _Componentes React_
+- [x] 11-3: _[Projeto - Movie Cards Library]()_
+
+##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+
+- [x] 12-1: _Componentes com estados e eventos_
+- [x] 12-2: _Formulários no React_
+- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+
+##### Bloco 13: Ciclo de Vida de Componentes e React Router
+
+- [ ] 13-1: _Ciclo de vida de componentes_
+- [ ] 13-2: _React Router_
+- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
 # [...]
