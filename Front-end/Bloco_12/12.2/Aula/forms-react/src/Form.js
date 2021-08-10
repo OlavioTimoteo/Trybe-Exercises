@@ -28,7 +28,7 @@ class Form extends Component {
   render() {
     return (
       <div>
-        <h1>Estados e Reaact: ferramenta incrível ou reagindo a regionalismos?</h1>
+        <h1>Estados e React: ferramenta incrível ou reagindo a regionalismos?</h1>
         <form className="form">
           <label>
             Qual seu estado favorito?
