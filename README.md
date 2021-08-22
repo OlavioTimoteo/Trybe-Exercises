@@ -88,7 +88,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 10: Testes Automatizados co mJest
+##### Bloco 10: Testes Automatizados com Jest
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
@@ -113,8 +113,29 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 
-- [ ] 13-1: _Ciclo de vida de componentes_
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-1: _Ciclo de vida de componentes_
+- [x] 13-2: _React Router_
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+
+##### Bloco 14: Metodologias Ágeis
+
+- [x] 14-1: _Metodologias Ágeis_
+- [x] 14-2: _[Projeto - Front-end Online Store]()_
+
+##### Bloco 15: Testes automatizados com React Testing Library
+
+- [x] 15-1: _RTL - Primeiros passos_
+- [x] 15-2: _RTL - Mocks e Inputs_
+- [x] 15-3: _RTL - Testando React Router_
+- [ ] 15-4: _[Projeto - Testes em React]()_
+
+##### Bloco 15: Testes automatizados com React Testing Library
+
+- [ ] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] 16-2: _Usando o Redux no React_
+- [ ] 16-3: _Usando o Redux no React - Prática_
+- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [ ] 16-5: _Testes em React-Redux_
+- [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
 # [...]
