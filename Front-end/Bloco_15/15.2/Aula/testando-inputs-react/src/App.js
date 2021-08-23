@@ -24,6 +24,7 @@ class App extends React.Component {
           <input
             onChange={(e) => this.handleInput(e)}
             name='nome'
+            data-testid='input-nome'
             value={this.state.nome}
           />
         </p>
@@ -32,6 +33,7 @@ class App extends React.Component {
           <input
             onChange={(e) => this.handleInput(e)}
             name='email'
+            data-testid='input-email'
             value={this.state.email}
           />
         </p>
