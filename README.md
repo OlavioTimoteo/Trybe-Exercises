@@ -109,7 +109,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 12-1: _Componentes com estados e eventos_
 - [x] 12-2: _Formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 
@@ -127,14 +127,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 15-1: _RTL - Primeiros passos_
 - [x] 15-2: _RTL - Mocks e Inputs_
 - [x] 15-3: _RTL - Testando React Router_
-- [ ] 15-4: _[Projeto - Testes em React]()_
+- [x] 15-4: _[Projeto - Testes em React]()_
 
 ##### Bloco 15: Testes automatizados com React Testing Library
 
-- [ ] 16-1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 16-2: _Usando o Redux no React_
-- [ ] 16-3: _Usando o Redux no React - Prática_
-- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 16-2: _Usando o Redux no React_
+- [x] 16-3: _Usando o Redux no React - Prática_
+- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
 - [ ] 16-5: _Testes em React-Redux_
 - [ ] 16-6: _[Projeto - Trybe Wallet]()_
 
