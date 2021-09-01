@@ -129,13 +129,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 15-3: _RTL - Testando React Router_
 - [x] 15-4: _[Projeto - Testes em React]()_
 
-##### Bloco 15: Testes automatizados com React Testing Library
+##### Bloco 16: Gerenciamento de Estado com Redux
 
 - [x] 16-1: _Introdução ao Redux - O estado global da aplicação_
 - [x] 16-2: _Usando o Redux no React_
 - [x] 16-3: _Usando o Redux no React - Prática_
 - [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
+- [x] 16-5: _Testes em React-Redux_
 - [ ] 16-6: _[Projeto - Trybe Wallet]()_
+
+##### Bloco 17: Projeto Jogo de Trivia
+
+- [ ] 17-1: _[Projeto - Jogo Trivia]()_
+
+##### Bloco 18: Contex API e React Hooks
+
+- [ ] 18-1: _Context API do React_
+- [ ] 18-2: _React Hooks - useState e useContext_
+- [ ] 18-3: _React Hooks - userEffect e Hooks customizados_
+- [ ] 18-4: _[Projeto - StarWas Datatable com COntext API e Hooks]()_
+
+##### Bloco 19: Projeto App de Receitas
+
+- [ ] 19-1: _[Projeto - App de Receitas]()_
 
 # [...]
