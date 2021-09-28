@@ -64,7 +64,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 6-3: _CSS Flexbox - Parte 1_
 - [x] 6-4: _CSS Flexbox - Parte 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[trybe-warts.vercel.app]()_
+- [x] 6-6: _[Projeto - TrybeWarts](https://trybe-warts.vercel.app){:target="blank"}_
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
@@ -103,7 +103,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 11-1: _Introdução - React_
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
-- [x] 11-3: _[https://movie-cards-library-olavio.vercel.app]()_
+- [x] 11-3: _[Projeto - Movie Cards Library](https://movie-cards-library-olavio.vercel.app){:target="blank"}_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
@@ -136,7 +136,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 16-3: _Usando o Redux no React - Prática_
 - [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
 - [x] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 16-6: _[Projeto - Trybe Wallet]()_
 
 ##### Bloco 17: Projeto Jogo de Trivia
 
@@ -147,7 +147,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - userEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWas Datatable com COntext API e Hooks]()_
+- [x] 18-4: _[Projeto - StarWas Datatable com COntext API e Hooks]()_
 
 ##### Bloco 19: Projeto App de Receitas
 
