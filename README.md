@@ -103,6 +103,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 11-1: _Introdução - React_
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
+
 - [x] 11-3: _[Projeto - Movie Cards Library](https://movie-cards-library-olavio.vercel.app){:target="blank"}_
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
