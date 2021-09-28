@@ -141,7 +141,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 17: Projeto Jogo de Trivia
 
-- [x] 17-1: _[Projeto - Jogo Trivia](https://https://game-trivia-eight.vercel.app/)_
+- [x] 17-1: _[Projeto - Jogo Trivia](https://game-trivia-eight.vercel.app/)_
 
 ##### Bloco 18: Contex API e React Hooks
 
