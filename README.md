@@ -109,13 +109,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] 12-1: _Componentes com estados e eventos_
 - [x] 12-2: _Formulários no React_
-- [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [x] 12-3: _[Projeto - Movie Cards Library Stateful](https://movie-cards-library-statefull.vercel.app/)_
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
 
 - [x] 13-1: _Ciclo de vida de componentes_
 - [x] 13-2: _React Router_
-- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD](https://movie-cards-library-crud.vercel.app)_
 
 ##### Bloco 14: Metodologias Ágeis
 
