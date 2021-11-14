@@ -1,9 +1,4 @@
-
-  
-
 # Trybe
-
-  
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Olávio Timóteo](https://github.com/OlavioTimoteo)_ enquanto estudante de Desenvolvimento Web FullStack na [Trybe](https://www.betrybe.com/) :rocket:
 
