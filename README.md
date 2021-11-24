@@ -203,5 +203,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 22-6: _[Projeto - Talker Manager]()_
 
 
+##### Bloco 23: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+
+- [x] 23-1: _Introdução - Arquitetura de Software_
+- [x] 23-1: _Arquitetura de Software - Camada de Model_
+- [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 23-3: _Arquitetura Web - Rest e Restful_
+- [x] 23-4: _Arquitetura de Software - Testando as Camadas_
+- [x] 23-5: _[Projeto - Store Manager]()_
+
 
 # [...]
