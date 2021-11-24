@@ -253,5 +253,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
 
 
+##### Bloco 29: Introdução ao MongoDB
 
+- [x] 29-1: _Introdução - NoSQL_
+- [x] 29-1: _MongoDB - Introdução_
+- [x] 29-2: _Filter Operators_
+- [x] 29-3: _[Projeto - Data Flights]()_
 # [...]
