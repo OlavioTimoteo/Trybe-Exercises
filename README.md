@@ -275,7 +275,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 31-2: _Dia 2_
 
 
-##### Bloco 31: MasterClass - VPS, CI/CD
+##### Bloco 32: Projeto - App de Delivery
 
-- [ ] 30-4: _[Projeto - App de Delivery]()_
+- [ ] 32-1: _[Projeto - App de Delivery]()_
 # [...]
