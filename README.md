@@ -259,4 +259,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 29-1: _MongoDB - Introdução_
 - [x] 29-2: _Filter Operators_
 - [x] 29-3: _[Projeto - Data Flights]()_
+
+
+##### Bloco 30: MongoDB: Updates Simples e Complexos
+
+- [x] 30-1: _Updates Simples_
+- [x] 30-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 30-3: _Updates Complexos - Arrays - Parte 2_
+- [x] 30-4: _[Projeto - Commerce]()_
 # [...]
