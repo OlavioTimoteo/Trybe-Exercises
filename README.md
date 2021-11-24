@@ -192,5 +192,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 21-4: _[Projeto - One For All]()_
 
 
+##### Bloco 22: Introdução ao desenvolvimento Web com NodeJS
+
+- [x] 22-1: _Introdução - NodeJS_
+- [x] 22-1: _NodeJS - Um motor JavaScript_
+- [x] 22-2: _Node JS - Fluxo Assíncrono_
+- [x] 22-3: _Mocha, Chain e Sinon - Teste de Back-end com NodeJS_
+- [x] 22-4: _Express - HTTP com NodeJS_
+- [x] 22-5: _Express - Middlewares_
+- [x] 22-6: _[Projeto - Talker Manager]()_
+
+
 
 # [...]
