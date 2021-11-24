@@ -223,4 +223,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 24-5: _[Projeto - API de Blogs]()_
 
 
+##### Bloco 25: Deployment
+
+- [x] 25-1: _Introdução - Deploy_
+- [x] 25-1: _Infraestrutura - Deploy com Heroku_
+- [x] 25-2: _Deploy Docker & Heroku_
+- [x] 25-3: _[Projeto - Stranger Things]()_
+
+
 # [...]
