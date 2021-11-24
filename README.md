@@ -248,5 +248,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 27-4: _[Projeto - Trybers and Dragons]()_
 
 
+##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
+
+- [x] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+
+
 
 # [...]
