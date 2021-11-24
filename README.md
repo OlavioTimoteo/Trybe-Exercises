@@ -91,7 +91,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 9-4: _[Projeto - Carrinho de Compras]()_
   
 
-## Desenvolvimento Front-end
+## Desenvolvimento Front-end :white_check_mark:
 
   
 
@@ -157,8 +157,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [x] 18-1: _[Projeto - App de Receitas]()_
 
   
+
+## Desenvolvimento Back-end
+
+  
+
+##### Bloco 19: Docker: Utilizando Conteiners
+
+- [x] 19-1: _Introdução - Back-end_
+- [x] 19-1: _Utilizando Containers - Docker_
+- [x] 19-2: _Manipulação e Criação de imagens no Docker_
+- [x] 19-3: _Orquestrando Containers com Docker Compose_
+- [x] 19-4: _[Projeto - Docker Todo-List]()_
+
+
 
 # [...]
