@@ -231,4 +231,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 25-3: _[Projeto - Stranger Things]()_
 
 
+##### Bloco 26: TypeScript
+
+- [x] 26-1: _Introdução - TypeScript_
+- [x] 26-1: _Introdução ao TypeScript_
+- [x] 26-2: _Tipagem Estática e Generics_
+- [x] 26-3: _Express com TypeScript_
+- [x] 26-4: _[Projeto - Trybe Smith]()_
+
+
+
 # [...]
