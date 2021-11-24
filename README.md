@@ -213,4 +213,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 23-5: _[Projeto - Store Manager]()_
 
 
+##### Bloco 24: NodeJS: ORM e Autenticação
+
+- [x] 24-1: _Introdução - NodeJS: ORM e Autenticação_
+- [x] 24-1: _ORM - Interface da aplicação com o banco de dados_
+- [x] 24-2: _ORM - Associations_
+- [x] 24-3: _JWT - (JSON Web Token_
+- [x] 24-4: _Testando APIs com Testes de Integração_
+- [x] 24-5: _[Projeto - API de Blogs]()_
+
+
 # [...]
